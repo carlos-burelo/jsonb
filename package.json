@@ -1,0 +1,20 @@
+{
+  "name": "@coatl/jsonb",
+  "version": "1.0.0",
+  "description": "JSONB is a Binary JSON format that is optimized for speed and size.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "binary",
+    "serialization",
+    "deserialization",
+    "speed",
+    "size"
+  ],
+  "author": "Carlos Burelo",
+  "license": "MIT"
+}
